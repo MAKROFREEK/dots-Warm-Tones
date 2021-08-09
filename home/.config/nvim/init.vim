@@ -68,10 +68,12 @@ set title
 
 " Main Coloring Configurations
 syntax on
-colorscheme warmtones
+
+" warmtonesdark for dark mode. warmtones for light.
+colorscheme warmtonesdark
 
 " Enable True Color Support (ensure you're using a 256-color enabled $TERM, e.g. xterm-256color)
-" set termguicolors
+set termguicolors
 
 """ Plugin Configurations
 
@@ -82,7 +84,7 @@ autocmd BufEnter * if tabpagenr('$') == 1 && winnr('$') == 1 && exists('b:NERDTr
 
 " Airline
 let g:airline_powerline_fonts = 1
-let g:airline_section_z = "%p%% : \ue0a1:%l/%L: Col:%c"
+" let g:airline_section_z = "%p%% : \ue0a1:%l/%L: Col:%c"
 let g:airline_left_sep = "\uE0B4"
 let g:airline_right_sep = "\uE0B6"
 " let g:airline_theme='alien-moon-light'
