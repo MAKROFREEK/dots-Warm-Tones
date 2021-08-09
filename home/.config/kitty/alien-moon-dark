@@ -1,0 +1,41 @@
+background #1e287d
+foreground #ffffff
+selection_background #ffffff
+selection_foreground #1e287d
+url_color #0a1469
+cursor #ffffff
+active_border_color #8e93be
+inactive_border_color #505566
+active_tab_background #1e287d
+active_tab_foreground #ffffff
+inactive_tab_background #505566
+inactive_tab_foreground #0a1469
+tab_bar_background #505566
+
+# normal
+color0 #1e287d
+color1 #c76ec6
+color2 #3496bd
+color3 #e798cb
+color4 #5c5dca
+color5 #c76ec6
+color6 #3496bd
+color7 #ffffff
+
+# bright
+color8 #8e93be
+color9 #c76ec6
+color10 #3496bd
+color11 #e798cb
+color12 #5c5dca
+color13 #c76ec6
+color14 #3496bd
+color15 #ffffff
+
+# extended base16 colors
+color16 #e798cb
+color17 #c36fb4
+color18 #505566
+color19 #798299
+color20 #0a1469
+color21 #e7e5f6

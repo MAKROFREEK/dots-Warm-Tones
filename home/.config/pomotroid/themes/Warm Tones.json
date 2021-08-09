@@ -1,0 +1,17 @@
+
+{
+  "name": "Warm Tones",
+  "colors": {
+    "--color-long-round": "#ed4f3d",
+    "--color-short-round": "#1189a3",
+    "--color-focus-round": "#ff855e",
+    "--color-foreground-darker": "#b55e6c",
+    "--color-background": "#dad9ce",
+    "--color-background-light": "#9E9D90",
+    "--color-background-lightest": "#5E5A6B",
+    "--color-foreground": "#646069",
+    "--color-foreground-darker": "#282630",
+    "--color-foreground-darkest": "#19161c",
+    "--color-accent": "#ed4f3d"
+  }
+}

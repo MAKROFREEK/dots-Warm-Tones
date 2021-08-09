@@ -1,0 +1,127 @@
+/**
+ * @name NieR: Automata UI Light
+ * @version auto
+ * @description Glory to Mankind. || 
+ * Thanks to JulioDRai for letting me use their cursors! 
+ * ~https://www.deviantart.com/juliodrai || 
+ * Thanks to GOmonkeymanGO for letting me use some of their code 
+ * ~https://github.com/ChaseIngebritson/YoRHa-Discord-Theme || 
+ * @website https://github.com/AccraZed/YoRHA-UI-BetterDiscord
+ * @author Accrazed#2710
+ * @invite X4nBPCa
+ * @patreon https://www.patreon.com/accrazed
+ * @authorId 153562159161278473
+ */
+ /*
+ *  :::.       .,-:::::   .,-::::: :::::::..    :::.     :::::::::.,:::::::::::::-.  
+ *  ;;`;;    ,;;;'````' ,;;;'````' ;;;;``;;;;   ;;`;;    '`````;;;;;;;'''' ;;,   `';,
+ * ,[[ '[[,  [[[        [[[         [[[,/[[['  ,[[ '[[,      .n[[' [[cccc  `[[     [[
+ * c$$$cc$$$c $$$        $$$         $$$$$$c   c$$$cc$$$c   ,$$P"   $$""""   $$,    $$
+ * 888   888,`88bo,__,o,`88bo,__,o, 888b "88bo,888   888,,888bo,_  888oo,__ 888_,o8P'
+ * YMM   ""`   "YUMMMMMP" "YUMMMMMP"MMMM   "W" YMM   ""`  `""*UMM  """"YUMMMMMMMP"`  
+ */
+
+@import url("https://accrazed.github.io/YoRHA-UI-BetterDiscord/font/stylesheet.css"); /* Font */
+@import url("https://accrazed.github.io/YoRHA-UI-BetterDiscord/NieR-Import.theme.css"); /* Main File */
+@import url("https://accrazed.github.io/YoRHA-UI-BetterDiscord/LightImport.theme.css"); /* Light Part of Theme */
+
+/* GLOBAL VARIABLES */
+:root {
+
+    --color-high: #d8d8c7;
+    --color-low: rgb(87, 84, 74);
+    --color-mid: #d8d8c7;
+    --color-alert: #2c403c;
+    --color-high-trans: #726861;
+    --color-low-trans: #6C6E68;
+    --color-alert-trans: #babaab;
+    --nier-font: sce-ps3_rodin_latinregular;
+    --text-normal: #47474f;
+    --text-link: var(--color-alert);
+    --text-muted: var(--color-low);
+
+
+    --font-primary: var(--nier-font), "Whitney", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    --font-display: var(--nier-font), "Whitney", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    --header-primary: var(--color-low) !important;
+    --header-secondary: var(--color-low) !important;
+    --channels-default: var(--color-low);
+    --interactive-normal: var(--color-low);
+    --interactive-hover: var(--color-low);
+    --interactive-active: var(--color-low);
+    --interactive-muted: var(--color-high);
+    --background-primary: var(--color-high);
+    --background-secondary: var(--color-high);
+    --background-secondary-alt: var(--color-high);
+    --background-tertiary: var(--color-high);
+    --background-accent: #4f545c;
+    --background-floating: var(--color-high);
+    --background-mobile-primary: #36393f;
+    --background-mobile-secondary: #2f3136;
+    --background-modifier-hover: var(--color-mid);
+    --background-modifier-active: rgba(79, 84, 92);
+    --background-modifier-selected: rgba(79, 84, 92);
+    --background-mentioned: var(--color-alert-trans);
+    --background-mentioned-hover: var(--color-alert-trans);
+    --background-message-hover: #ebebd8;
+    --background-help-warning: #c96901;
+    --background-help-info: #5d7ca2;
+    --scrollbar-thin-thumb: var(--color-low);
+    --scrollbar-thin-track: transparent;
+    --scrollbar-auto-thumb: var(--color-low);
+    --scrollbar-auto-track: transparent;
+    --scrollbar-auto-scrollbar-color-thumb: var(--color-low);
+    --scrollbar-auto-scrollbar-color-track: transparent;
+    --elevation-stroke: 0 0 0 1px rgba(4, 4, 5);
+    --elevation-low: 0 1px 0 rgba(4, 4, 5), 0 1.5px 0 rgba(6, 6, 7), 0 2px 0 rgba(4, 4, 5);
+    --elevation-medium: 0 4px 4px rgba(0, 0, 0);
+    --elevation-high: 0 8px 16px rgba(0, 0, 0);
+    --logo-primary: var(--color-high);
+    --focus-primary: var(--color-alert);
+    --guild-header-text-shadow: 0 1px 1px rgba(0, 0, 0);
+    --channeltextarea-background: var(--color-high);
+    --activity-card-background: #202225;
+    --textbox-markdown-syntax: #8e9297;
+    --deprecated-card-bg: var(--color-high);
+    --deprecated-card-editable-bg: rgba(32, 34, 37);
+    --deprecated-store-bg: #36393f;
+    --deprecated-quickswitcher-input-background: #72767d;
+    --deprecated-quickswitcher-input-placeholder: hsla(0, 0%, 100%);
+    --deprecated-text-input-bg: rgba(0, 0, 0);
+    --deprecated-text-input-border: rgba(0, 0, 0);
+    --deprecated-text-input-border-hover: #040405;
+    --deprecated-text-input-border-disabled: #202225;
+    --deprecated-text-input-prefix: #dcddde;
+}
+
+.app-2rEoOp,
+.bg-h5JY_x {
+  background-color: #d8d8c7;
+}
+.overlayTitle-8IcS01 {
+  border-radius: 0;
+  background: #d8d8c7 ;
+  color: #d8d8c7;
+}
+
+#app-mount:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--color-high);
+  z-index: 10000;
+  opacity: 0.03;
+  -webkit-user-select: none;
+          user-select: none;
+  pointer-events: none;
+}
+
+.homeIcon-tEMBK1,
+.tutorialContainer-2sGCg9 .wrapper-25eVIn,
+.tutorialContainer-2sGCg9 .svg-1X37T1 {
+  height: 0px;
+  width: 0px;
+}
