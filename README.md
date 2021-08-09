@@ -58,3 +58,7 @@ I didn't bother saving any screenshots of the previous editon because it wasn't 
 
 ![image](screenshots/reddit-screenshots.png)
 
+**NEW DARK MODE**
+
+![image](screenshots/dark-reddit-screenshots.png)
+
