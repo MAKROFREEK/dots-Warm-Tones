@@ -7,7 +7,7 @@ Just a theme made from a color palette from a wallpaper. Enjoy.
 
 **Dependencies**:
 
-* Kitty *(alternatively I can provide color confs for any terminal if requested)
+* Kitty *(alternatively I can provide color confs for any terminal if requested)*
 
 * Dunst
 
