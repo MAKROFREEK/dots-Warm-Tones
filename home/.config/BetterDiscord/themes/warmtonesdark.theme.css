@@ -1,4 +1,4 @@
-//META{"name":"Github-dark","description":"Inspired by the github dark colorscheme","author":"LetsHaveKiddos","version":"1.6.0"}*//
+//META{"name":"Warm Tones Dark","description":"Warm Tones Dark","author":"LetsHaveKiddos","version":"1.6.0"}*//
 /** 
     Made by CircuitRCAY (Circuit#2816)
 */
@@ -19,39 +19,21 @@ pre > code {
 /** End Iosevka */
 
 .theme-dark {
-    --background-primary: #e7e5f6;
-    --background-secondary: #CCCAD9;
-    --background-tertiary: #A8A6B3;
-    --background-accent: #92909C;
-    --text-normal: #3944a8;
-    --text-muted: #3944a8;
-    --text-link: #5c5dca;
-    --header-primary: #34bfa8;
-    --header-secondary: #34bfa8;
-    --header-spotify: #34bfa8;
-    --background-floating: #5e67bc;
-    --interactive-normal: #3944a8;
-    --interactive-muted: #212c8c;
-    --interactive-hover: #3944a8;
-    --interactive-active: #3944a8;
-}
-
-.theme-light {
-    --background-primary: #e7e5f6;
-    --background-secondary: #e7e5f6;
-    --background-tertiary: #e7e5f6;
-    --background-accent: #e7e5f6;
-    --text-normal: #3944a8;
-    --text-muted: #3944a8;
-    --text-link: #34bfa8;
-    --header-primary: #34bfa8;
-    --header-secondary: #34bfa8;
-    --header-spotify: #34bfa8;
-    --background-floating: #f14c4c;
-    --interactive-normal: #3944a8;
-    --interactive-muted: #3944a8;
-    --interactive-hover: #3944a8;
-    --interactive-active: #3944a8;
+    --background-primary: #383543;
+    --background-secondary: #44424f;
+    --background-tertiary: #1b1a21;
+    --background-accent: #514f5c;
+    --text-normal: #f2eecd;
+    --text-muted: #f2eecd;
+    --text-link: #1189a3;
+    --header-primary: #ff855e;
+    --header-secondary: #ff855e;
+    --header-spotify: #ff855e;
+    --background-floating: #524e61;
+    --interactive-normal: #f2eecd;
+    --interactive-muted: #ec9282;
+    --interactive-hover: #f2eecd;
+    --interactive-active: #f2eecd;
 }
 
 ::-webkit-scrollbar,
@@ -714,7 +696,7 @@ div[class*="contentContainer"] > div[class*="scroller"] > div[class*="contentWid
 .hljs-params,
 .hljs-template-tag,
 .hljs-type {
-    color: #34bfa8;
+    color: #ff855e;
 }
   
 /* Gruvbox Purple */
@@ -733,7 +715,7 @@ div[class*="contentContainer"] > div[class*="scroller"] > div[class*="contentWid
 .hljs-regexp,
 .hljs-selector-id,
 .hljs-template-variable {
-    color: #34bfa8;
+    color: #ff855e;
 }
   
 /* Gruvbox Green */

@@ -1,32 +1,66 @@
-set default-bg                  "#dad9ce"
-set default-fg                  "#19161c"
+# warm tones light 
 
-set statusbar-fg                "#eeede2"
+# set default-bg                  "#dad9ce"
+# set default-fg                  "#19161c"
+
+# set statusbar-fg                "#eeede2"
+# set statusbar-bg                "#19161c"
+
+# set inputbar-bg                 "#dad9ce"
+# set inputbar-fg                 "#19161c"
+
+# set notification-bg             "#dad9ce"
+# set notification-fg             "#19161c"
+
+# set notification-error-bg       "#dad9ce"
+# set notification-error-fg       "#ed4f3d"
+
+# set notification-warning-bg     "#dad9ce"
+# set notification-warning-fg     "#ed4f3d"
+
+# set highlight-color             "#ff855e"
+# set highlight-active-color      "#065aad"
+
+# set completion-bg               "#a596b5"
+# set completion-fg               "#065aad"
+
+# set completion-highlight-fg     "#19161c"
+# set completion-highlight-bg     "#065aad"
+
+# set recolor-lightcolor          "#dad9ce"
+# set recolor-darkcolor           "#151119"
+
+# warm tones dark
+
+set default-bg                  "#383543"
+set default-fg                  "#151119"
+
+set statusbar-fg                "#4c4957"
 set statusbar-bg                "#19161c"
 
-set inputbar-bg                 "#dad9ce"
-set inputbar-fg                 "#19161c"
+set inputbar-bg                 "#383543"
+set inputbar-fg                 "#dad9ce"
 
-set notification-bg             "#dad9ce"
-set notification-fg             "#19161c"
+set notification-bg             "#383543"
+set notification-fg             "#dad9ce"
 
-set notification-error-bg       "#dad9ce"
-set notification-error-fg       "#ed4f3d"
+set notification-error-bg       "#383543"
+set notification-error-fg       "#e05141"
 
-set notification-warning-bg     "#dad9ce"
-set notification-warning-fg     "#ed4f3d"
+set notification-warning-bg     "#383543"
+set notification-warning-fg     "#e05141"
 
-set highlight-color             "#ff855e"
-set highlight-active-color      "#065aad"
+set highlight-color             "#ff8963"
+set highlight-active-color      "#2d7ac6"
 
-set completion-bg               "#a596b5"
-set completion-fg               "#065aad"
+set completion-bg               "#151119"
+set completion-fg               "#2d7ac6"
 
-set completion-highlight-fg     "#19161c"
-set completion-highlight-bg     "#065aad"
+set completion-highlight-fg     "#dad9ce"
+set completion-highlight-bg     "#2d7ac6"
 
-set recolor-lightcolor          "#dad9ce"
-set recolor-darkcolor           "#151119"
+set recolor-lightcolor          "#383543"
+set recolor-darkcolor           "#bfbb93"
 
 
 

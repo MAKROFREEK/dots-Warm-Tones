@@ -1,0 +1,17 @@
+
+{
+  "name": "Warm Tones Dark",
+  "colors": {
+    "--color-long-round": "#ed4f3d",
+    "--color-short-round": "#1189a3",
+    "--color-focus-round": "#ff855e",
+    "--color-foreground-darker": "#b55e6c",
+    "--color-background": "#383543",
+    "--color-background-light": "#282630",
+    "--color-background-lightest": "#19161c",
+    "--color-foreground": "#dad9ce",
+    "--color-foreground-darker": "#9E9D90",
+    "--color-foreground-darkest": "#5E5A6B",
+    "--color-accent": "#ed4f3d"
+  }
+}
