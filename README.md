@@ -45,12 +45,9 @@ I provided a grub theme (mostly just colors but hey its consistent with the them
 
 If you're not comfortable changing this I wouldn't even bother. It's a bit of a hassle.
 
-## Notes
-
-I recommend going through and changing the "monitor: DP-2" or any variation of this and using "xrandr" to change to your monitor(s).   
-I'm super OCD and like my rofi/dunst/polybar to spawn only on one of my monitors. I'm not sure everything you should look at but rofi/polybar/i3 are for sure you should look in the configs. 
-
-I didn't bother saving any screenshots of the previous editon because it wasn't recieved very well.
+## INSTALLATION GUIDE COMING SOON
+replace DP-2 with your monitor settings
+replace hdmi-0 with your monitor settings
 
 ## Enjoy
 
