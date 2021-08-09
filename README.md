@@ -1,19 +1,44 @@
-
-LetsHaveKiddos | Warm Tones
+**
+LetsHaveKiddos** | **Warm Tones**
 ===========================
 
-Just a theme made from a color palette from a wallpaper. Enjoy
+Just a theme made from a color palette from a wallpaper. Enjoy.
 
-## Honorable mentions
+===============================================================
 
-The dunst notif' being super... outrageously.. laughably large was initially a mistake, but it's grown on me. So now I keep it, it's absolutely absurd but I love it.
+**Dependencies**:
 
-## Tools used
-i3-gaps, i3lock-fancy or i3lock-color & betterlockscreen, rofi, dunst, kitty, sublime, neovim, polybar, thunar, zathura.
+Kitty (alternatively I can provide color confs for any terminal if requested)
 
-I provide GTK and QT options.
+* Dunst
 
-No extra changes for GTK needed, for QT I recommend plastique. If youre on arch [aur/qt5-styleplugins-git]
+* Polybar
+
+* Discord
+
+* BetterDiscord
+
+* betterlockscreen
+
+* i3lock-fancy
+
+* i3-gaps
+
+* rofi
+
+* picom-ibhagwan-git
+
+**Other tools I use**:
+
+* Sublime
+
+* Spotify
+
+* Thunar
+
+* Zathura
+
+* Neovim
 
 ## Boot 
 
