@@ -1,0 +1,11 @@
+* {
+    lightfg:                     #dad9ce;
+    lightbg:                     #5E5A6B;
+    foreground:                  #dad9ce;
+    background:                  #282630;
+    background-color:            rgba ( 218, 217, 206, 0 % );
+    black:						 #19161c;
+}
+
+
+
