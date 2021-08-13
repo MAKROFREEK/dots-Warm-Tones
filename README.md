@@ -39,12 +39,6 @@ Just a theme made from a color palette from a wallpaper. Enjoy.
 
 * Neovim
 
-## Boot 
-
-I provided a grub theme (mostly just colors but hey its consistent with the theme)
-
-If you're not comfortable changing this I wouldn't even bother. It's a bit of a hassle.
-
 ## INSTALLATION GUIDE
 https://github.com/LetsHaveKiddos/installation-guide
 
