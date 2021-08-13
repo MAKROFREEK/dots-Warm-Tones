@@ -45,11 +45,8 @@ I provided a grub theme (mostly just colors but hey its consistent with the them
 
 If you're not comfortable changing this I wouldn't even bother. It's a bit of a hassle.
 
-## INSTALLATION GUIDE COMING SOON
-replace DP-2 with your monitor settings
-replace hdmi-0 with your monitor settings
-
-## Enjoy
+## INSTALLATION GUIDE
+https://github.com/LetsHaveKiddos/installation-guide
 
 ## Screens:
 
