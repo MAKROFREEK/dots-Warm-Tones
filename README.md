@@ -7,7 +7,6 @@
 * i3-gaps
 * rofi
 * picom-ibhagwan-git
-**OPTIONAL**
 * BetterDiscord
 * Discord
 * Sublime
